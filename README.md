@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
-![1695848460216](https://github.com/VidishaSharma26/Youtube-Data-analysis-End-to-end-Data-Engineering-project-/assets/132566486/de1f31a7-7a84-47f2-8af1-2a0b1a8ee3a5)
+
 
 
 
