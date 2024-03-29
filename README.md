@@ -48,6 +48,14 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
+## Conclusion:
+1. The project demonstrates the potential impact and implications of leveraging cloud services for data transformation and analysis.
+2. While real-time streaming is necessary for certain use cases, batch ingestion is often more effective and cost-efficient for analyzing large datasets and gaining 
+   comprehensive insights.
+3. Businesses can extract valuable insights, save costs, gain a competitive advantage, and ensure compliance with regulatory requirements by using cloud services.
+4. The use of cloud services enables businesses to scale their data infrastructure and take advantage of powerful analytics tools without incurring the costs and 
+   complexities of traditional data warehousing and ETL systems.
+
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
