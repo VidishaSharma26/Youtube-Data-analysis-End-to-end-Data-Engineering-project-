@@ -40,7 +40,7 @@ This project aims to securely manage, streamline, and perform analysis on the st
 4. AWS Glue: A serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development.
 5. AWS Lambda: Lambda is a computing service that allows programmers to run code without creating or managing servers.
 6. AWS Athena: Athena is an interactive query service for S3 in which there is no need to load data it stays in S3.
-7) Python & Spark: To perform the ETL job in AWS Lambda and clean the data, Use the data in AWS Athena for Queries.
+7. Python & Spark: To perform the ETL job in AWS Lambda and clean the data, Use the data in AWS Athena for Queries.
 
 
 ## Dataset Used
