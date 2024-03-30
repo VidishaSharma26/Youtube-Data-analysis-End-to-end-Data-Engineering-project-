@@ -59,6 +59,10 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Architecture Diagram
 <img src="architecture.jpeg">
 
+## Data Insights using AWS QuickSight
+![1695848460216](https://github.com/VidishaSharma26/Youtube-Data-analysis-End-to-end-Data-Engineering-project-/assets/132566486/f08c6ed3-e7dc-42b8-b300-8a794d0a5af3)
+
+
 
 
 
